@@ -1,0 +1,18 @@
+{
+  "token": "MTA4NDU2NTI2MzkxMzA3MDc5Mg.GmjKEJ.W6BKBjSOBcWobjUIJg0gQnywFX1RAp_aevvams ",
+  "status_sequence": ["online", "idle", "dnd"],
+  "clear_enabled": true,
+  "clear_interval": 15,
+  "speed_rotator": 1.7,
+  "use_status_sequence": false,
+  "hypesquad_sequence": ["bravery", "brilliance", "balance"],
+  "hypesquad_mapping": {
+    "bravery": 1,
+    "brilliance": 2,
+    "balance": 3
+  },
+  "rotate_hypesquad": false,
+  "hypesquad_rotation_interval": 15,
+  "rotate_aboutme": false,
+  "aboutme_rotation_interval": 15
+}
